@@ -1,5 +1,7 @@
-# Coursera
-GO-TO-MARKET
+# Coursera 2012 to 2016
+
+-----
+## GO-TO-MARKET
 -----
 
 
