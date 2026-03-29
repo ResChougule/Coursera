@@ -33,13 +33,16 @@
 
 
 # Step 2: Collect & structure data
-
+----
 ## Pull data from real public sources:
 
 1.Timeline & milestones → Wikipedia, Coursera blog
 2. Revenue & subscriptions → Yahoo Finance, Statista
 3. SaaS metrics benchmarks → ForEntrepreneurs, SaaStr
 4. MOOCs usage trends → Class Central
+
+----
+
 
 ## Structure datasets in CSV files:
 
